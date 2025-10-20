@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋  
+Welcome to my space 🌿  
 
-<!--
-**TwentyfiveBTea/TwentyfiveBTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A little about me  
+I’m a developer who loves crafting clean code & beautiful things.  
+Currently exploring **Java + Spring Boot**, diving deep into **backend architecture** and a bit of **frontend aesthetics**.  
 
-Here are some ideas to get you started:
+☕ Mostly found  
+writing code at midnight, tweaking UI palettes, or chasing the perfect font pairing.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests  
+- Backend Development  
+- System Design & Optimization  
+- Minimalist UI  
+- Indie aesthetics  
+
+🪶 Words I live by  
+> “Make it simple, but significant.”  
+
+📸 IG vibes: code • coffee • calm  
+🎧 Music & mood fuel my flow  
+📫 Reach me: [@TwentyfiveBTea](https://github.com/TwentyfiveBTea)  
+
+---
+
+🩶 Thanks for stopping by —  
+Let’s build something timeless.
